@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JAVA-SpringBoot, Backend Developer**
 
-- 🌱 I’m currently learning **Spring Boot, TensorFlow, OpenCV**
+- 🌱 I’m currently learning **Spring Boot, TensorFlow, OpenCV, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tazriahelal?tab=repositories](https://github.com/tazriahelal?tab=repositories)
 
