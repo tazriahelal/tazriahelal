@@ -1,3 +1,4 @@
+![](https://github.com/tazriahelal/tazriahelal/blob/main/fullyconnected_525.gif)
 <h1 align="center">Hi 👋, I'm Tazria Helal</h1>
 <h3 align="center">A passionate Backend developer & Data Science enthusiast from Bangladesh</h3>
 
