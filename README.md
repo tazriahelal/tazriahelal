@@ -1,4 +1,6 @@
-<p align="center"> <a href = "https://github.com/tazriahelal/tazriahelal/blob/main/fullyconnected_525.gif"</a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo-name/main/my-gif.gif](https://github.com/tazriahelal/tazriahelal/blob/main/fullyconnected_525.gif" alt="fully-connected-525-gif">
+</p>
 <h1 align="center">Hi 👋, I'm Tazria Helal</h1>
 <h3 align="center">A passionate Backend developer & Data Science enthusiast from Bangladesh</h3>
 
